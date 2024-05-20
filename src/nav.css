@@ -1,0 +1,31 @@
+.navbar {
+    padding-top: 15px;
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 20px;
+    position: fixed;
+    color: white
+}
+
+.list {
+    padding-left: 47px;
+    display: inline;
+    margin-right: 12px;
+    /* padding:10px; */
+}
+
+
+list:hover::after {
+    content: attr(data-description);
+    position: absolute;
+}
+
+.list1 {
+    font-weight: bold;
+    display: inline;
+    padding-left: 35px;
+    font-size: 1.4em;
+    color: rgb(204, 46, 46);
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+
+
+}

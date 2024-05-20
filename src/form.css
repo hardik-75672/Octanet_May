@@ -1,0 +1,31 @@
+.form {
+    /* width: auto; */
+    /* height: auto; */
+    margin: 0;
+    /* box-sizing: border-box; */
+    background: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 45.5rem;
+}
+
+h1{
+    color:aliceblue;
+    font-size: 2.5rem;
+}
+
+
+.input1 {
+    width: 200px;
+    height: 40px;
+    border: 3px solids rgb(19, 18, 18);
+    background: rgb(179, 197, 213);
+    /* margin: 100px; */
+    justify-content: center;
+    text-align: center;
+    font-size: 1.2rem;
+    margin:10px;
+    
+}

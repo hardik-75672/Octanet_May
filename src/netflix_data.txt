@@ -1,0 +1,13 @@
+ 
+THIS DATA IS USED IN APP.JS FOR MAKING NETFLIX WEBSITE
+
+
+ <Nav />
+    {/* <Nav /> */}
+
+    <App1 imagsrc={data[0].imgsrc} title={data[0].title} link={data[0].link} />
+    <App1 imagsrc={data[1].imgsrc} title={data[1].title} link={data[1].link} />
+    <App1 imagsrc={data[2].imgsrc} title={data[2].title} link={data[2].link} />
+    <App1 imagsrc={data[3].imgsrc} title={data[3].title} link={data[3].link} />
+    <App1 imagsrc={data[4].imgsrc} title={data[4].title} link={data[4].link} />
+    <App1 imagsrc={data[5].imgsrc} title={data[5].title} link={data[5].link} />

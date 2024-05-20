@@ -1,0 +1,17 @@
+*{
+    /* padding:0;
+    margin:0; */
+    /* box-sizing:border-box; */
+}
+
+.navbar_restro{
+    /* margin:0 auto; */
+    display:flex;
+    justify-content:space-between;
+    /* align-items: center; */
+
+}
+
+.list12{
+    display:inline-block;
+}
